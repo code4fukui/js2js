@@ -8,7 +8,7 @@ JavaScript → AST → JavaScript
 
 ## Demo
 
-**https://code4fukui.github.io/js2js/**
+**https://github.com/code4fukui/js2js
 
 
 ![A three-pane web interface showing JavaScript code on the left, its corresponding AST in JSON format in the middle, and the regenerated JavaScript code on the right.](https://github.com/user-attachments/assets/265c4c03-a187-41c7-a40a-78ade1f29be7)
